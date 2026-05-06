@@ -23,7 +23,7 @@ public class WebhookService {
      * NOTE: Make sure your n8n workflow is ACTIVE (not just in test mode).
      * The workflow toggle must be ON so it listens 24/7.
      */
-    private static final String WEBHOOK_URL = "YOUR_N8N_WEBHOOK_URL";
+    private static final String WEBHOOK_URL = "https://siam175.app.n8n.cloud/webhook-test/913827e7-2bb5-4638-8205-28a4d877ac6b";
 
     private static final int TIMEOUT_SECONDS = 15;
 
