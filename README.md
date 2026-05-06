@@ -12,6 +12,3 @@ Java Swing contact form that sends user input (name/email/query) to an n8n webho
 
 1. **Clone the repository**:
 
-```bash
-git clone https://github.com/AKshihab/java_n8n2.git
-cd java_n8n2
